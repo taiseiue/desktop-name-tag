@@ -1,0 +1,11 @@
+C:\Users\neu3ds\source\repos\展示用名前プレート\展示用名前プレート\bin\Debug\展示用名前プレート.exe.config
+C:\Users\neu3ds\source\repos\展示用名前プレート\展示用名前プレート\bin\Debug\展示用名前プレート.exe
+C:\Users\neu3ds\source\repos\展示用名前プレート\展示用名前プレート\bin\Debug\展示用名前プレート.pdb
+C:\Users\neu3ds\source\repos\展示用名前プレート\展示用名前プレート\obj\Debug\展示用名前プレート.csprojAssemblyReference.cache
+C:\Users\neu3ds\source\repos\展示用名前プレート\展示用名前プレート\obj\Debug\展示用名前プレート.Form1.resources
+C:\Users\neu3ds\source\repos\展示用名前プレート\展示用名前プレート\obj\Debug\展示用名前プレート.Properties.Resources.resources
+C:\Users\neu3ds\source\repos\展示用名前プレート\展示用名前プレート\obj\Debug\展示用名前プレート.csproj.GenerateResource.cache
+C:\Users\neu3ds\source\repos\展示用名前プレート\展示用名前プレート\obj\Debug\展示用名前プレート.csproj.CoreCompileInputs.cache
+C:\Users\neu3ds\source\repos\展示用名前プレート\展示用名前プレート\obj\Debug\展示用名前プレート.exe
+C:\Users\neu3ds\source\repos\展示用名前プレート\展示用名前プレート\obj\Debug\展示用名前プレート.pdb
+C:\Users\neu3ds\source\repos\展示用名前プレート\展示用名前プレート\obj\Debug\展示用名前プレート.Form2.resources
